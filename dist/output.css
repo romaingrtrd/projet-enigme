@@ -518,10 +518,10 @@ video {
   background-color: rgb(34 197 94 / var(--tw-bg-opacity));
 }
 
-.text-black {
-  --tw-text-opacity: 1;
-  color: rgb(0 0 0 / var(--tw-text-opacity));
+font-face {
+  font-family: 'Poppins', sans-serif;
 }
 
-
-
+.hover\:cursor-pointer:hover {
+  cursor: pointer;
+}
