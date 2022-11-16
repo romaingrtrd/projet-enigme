@@ -9,6 +9,6 @@
     <title>Accueil</title>
 </head>
 <body>
-<p class="test-1">TEST</p>
+<p>TEST</p>
 </body>
 </html>
