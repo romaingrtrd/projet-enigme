@@ -9,6 +9,9 @@
     <title>Enigme 2</title>
 </head>
 <body>
+    <div id="popup-indice">
+        Le code <" "> en guise de mot de passe
+    </div>
     <div class="main">
         <h1>Maintenant il est temps de se connecter à ton ordinateur dédié.
             <br>
@@ -21,10 +24,10 @@
             <div class="login">
                 <input type="text">
                 <input id="password" type="text">
-                <img id="btn-login" onclick="NextStep()" class="hover:cursor-pointer "style="display:block; width: 100px; margin-left:85px;" src="/assets/img/btn-connexion.png">
+                <img id="btn-login" onclick="NextStep()" class=" hover:cursor-pointer "style="display:none; width: 100px; margin-left:85px;" src="/assets/img/btn-connexion.png">
             </div>
         </div>
-        <btn class="indice-2" id="indice-2">
+        <btn class="indice-2" id="arnaud">
             <img style="width: 100%" src="/assets/img/arnaud-pensif.png" alt="">
         </btn>
     </div>
