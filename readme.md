@@ -2,3 +2,4 @@
 - Mettre à jour sa branch à partir du main : `git rebase origin/main`
 - Changer de branch : `git checkout <nom de la branch>`
 - Afficher les modifications sur sa branch : `git status`
+- Mettre à jour sa branch sur le depot distant : `git push -u origin main`

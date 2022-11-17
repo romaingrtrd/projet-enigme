@@ -637,9 +637,12 @@ video {
   color: rgb(229 220 195 / var(--tw-text-opacity));
 }
 
-.text-primary {
-  --tw-text-opacity: 1;
-  color: rgb(154 148 131 / var(--tw-text-opacity));
+font-face {
+  font-family: 'Poppins', sans-serif;
+}
+
+.hover\:cursor-pointer:hover {
+  cursor: pointer;
 }
 
 .hover\:text-black:hover {
