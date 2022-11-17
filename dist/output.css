@@ -517,6 +517,18 @@ video {
   position: absolute;
 }
 
+.bottom-2 {
+  bottom: 0.5rem;
+}
+
+.right-2 {
+  right: 0.5rem;
+}
+
+.bottom-3 {
+  bottom: 0.75rem;
+}
+
 .mt-\[50px\] {
   margin-top: 50px;
 }
@@ -537,6 +549,26 @@ video {
   margin-top: 2.5rem;
 }
 
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
+.mb-\[65px\] {
+  margin-bottom: 65px;
+}
+
+.mt-\[100px\] {
+  margin-top: 100px;
+}
+
+.mb-\[7px\] {
+  margin-bottom: 7px;
+}
+
+.mr-\[15px\] {
+  margin-right: 15px;
+}
+
 .flex {
   display: flex;
 }
@@ -551,6 +583,26 @@ video {
 
 .h-8 {
   height: 2rem;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.h-\[350px\] {
+  height: 350px;
+}
+
+.h-36 {
+  height: 9rem;
+}
+
+.h-\[60px\] {
+  height: 60px;
+}
+
+.h-\[110px\] {
+  height: 110px;
 }
 
 .w-\[1000px\] {
@@ -573,6 +625,34 @@ video {
   width: 800px;
 }
 
+.w-screen {
+  width: 100vw;
+}
+
+.w-\[600px\] {
+  width: 600px;
+}
+
+.w-36 {
+  width: 9rem;
+}
+
+.w-\[60px\] {
+  width: 60px;
+}
+
+.w-\[1200px\] {
+  width: 1200px;
+}
+
+.w-\[55px\] {
+  width: 55px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
 .flex-col {
   flex-direction: column;
 }
@@ -583,6 +663,10 @@ video {
 
 .justify-center {
   justify-content: center;
+}
+
+.justify-evenly {
+  justify-content: space-evenly;
 }
 
 .gap-\[15px\] {
@@ -601,6 +685,15 @@ video {
   border-radius: 0.75rem;
 }
 
+.border-2 {
+  border-width: 2px;
+}
+
+.border-white {
+  --tw-border-opacity: 1;
+  border-color: rgb(255 255 255 / var(--tw-border-opacity));
+}
+
 .bg-primary {
   --tw-bg-opacity: 1;
   background-color: rgb(154 148 131 / var(--tw-bg-opacity));
@@ -609,6 +702,55 @@ video {
 .bg-quaternary {
   --tw-bg-opacity: 1;
   background-color: rgb(229 220 195 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#9A9483\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(154 148 131 / var(--tw-bg-opacity));
+}
+
+.bg-\[url\(\'\.\.\/assets\/img\/bg-logout\.jpg\'\)\] {
+  background-image: url('../assets/img/bg-logout.jpg');
+}
+
+.bg-\[url\(\'\.\.\/assets\/img\/logout-box\.png\'\)\] {
+  background-image: url('../assets/img/logout-box.png');
+}
+
+.bg-\[url\(\'\.\.\/assets\/img\/switch-user\.png\'\)\] {
+  background-image: url('../assets/img/switch-user.png');
+}
+
+.bg-\[url\(\'\.\.\/assets\/img\/logout-icon\.png\'\)\] {
+  background-image: url('../assets/img/logout-icon.png');
+}
+
+.bg-\[url\(\'\/assets\/img\/bg-logout\.jpg\'\)\] {
+  background-image: url('/assets/img/bg-logout.jpg');
+}
+
+.bg-\[url\(\'\/assets\/img\/logout-box\.png\'\)\] {
+  background-image: url('/assets/img/logout-box.png');
+}
+
+.bg-\[url\(\'\/assets\/img\/switch-user\.png\'\)\] {
+  background-image: url('/assets/img/switch-user.png');
+}
+
+.bg-\[url\(\'\/assets\/img\/logout-icon\.png\'\)\] {
+  background-image: url('/assets/img/logout-icon.png');
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-contain {
+  background-size: contain;
+}
+
+.bg-no-repeat {
+  background-repeat: no-repeat;
 }
 
 .py-\[20px\] {
@@ -650,6 +792,14 @@ video {
 
 .text-\[15px\] {
   font-size: 15px;
+}
+
+.text-\[20px\] {
+  font-size: 20px;
+}
+
+.font-bold {
+  font-weight: 700;
 }
 
 .text-white {
