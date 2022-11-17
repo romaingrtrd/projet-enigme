@@ -24,7 +24,7 @@
         </div>
             
         <div class="flex justify-center w-100">
-            <input id="text" type="text" class="rounded-full h-8 w-100 py-3 px-3 text-primary ">  
+            <input id="text" type="text" class="rounded-full h-8 w-100 py-3 px-3 text-s ">  
             <button id="bouton" style="display:none" class="rounded-full font-poppins text-white hover:text-black bg-quaternary w-8 h-8 ml-1 absolute mr-[-163px]">OK</button>
         </div>
 

@@ -15,14 +15,3 @@ function updateValue() {
     }
 }
 
-const boutonclick = document.querySelector('button');
-boutonclick.addEventListener('click',NextStep);
-
-function NextStep() {
-    var competence = '"Garantir l’intégration des différents éléments et modules"';
-    if (window.confirm("Bravo ! \nTu as validé la compétence suivante :\n"+ competence)) {
-        window.location.href = "./2.php";
-    } else {
-        die();
-    }
-}
