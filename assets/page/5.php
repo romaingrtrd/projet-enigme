@@ -5,39 +5,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="../../dist/output.css" rel="stylesheet">
-    <link href="/assets/css/2.css" rel="stylesheet">
-    <title>Enigme 2</title>
+    <link href="/assets/css/5.css" rel="stylesheet">
+    <title>Enigme 5</title>
 </head>
 <body>
-<div class="main">
-    <h1>Maintenant il est temps de se connecter à ton ordinateur dédié.
-        <br>
-        Pour cela, rentre ton nom en utilisateur et le code en guise de <span class="color-indice">mot de passe</span>.
-        <br>
-        Pour finaliser la connexion, cliques sur le bouton <span class="color-indice">SE CONNECTER</span>
-    </h1>
-    <div class="container-img">
-        <img style="width: 100% height:auto " src="/assets/img/window-login.png">
-        <div class="login">
-            <input type="text">
-            <input id="password" type="text">
-            <img id="btn-login" onclick="NextStep()" class="hover:cursor-pointer "style="display:block; width: 100px; margin-left:85px;" src="/assets/img/btn-connexion.png">
-        </div>
+    <div id="popup-indice">
+        Les inspecteurs sont connus pour trouver les petits détails
     </div>
-    <btn class="indice-2" id="indice-2">
-        <img style="width: 100%" src="/assets/img/arnaud-pensif.png" alt="">
-    </btn>
-</div>
+    <header>
+        <div class="logo">
+            <img onclick="location.href='./index.php'" style="width: 100%;" src="/assets/img/logo.png" alt="">
+        </div>
+        <div class="play">
+            <img onclick="location.href='/assets/page/1.php'" style="width: 100%;" src="/assets/img/play.png" alt="">
+        </div>
+    </header>
+
+    <div class="main">
+        <h1>“Ah j’ai oublié de te prévenir mais tu débutes ton premier jour pendant une semaine de projet. Un étudiant a besoin de ton aide car il n’arrive pas à changer la <span class="color-indice">couleur de fond</span> de son site internet, il souhaite la mettre en <span class="color-indice">rouge (#FF0000)</span>."</h1>
+        <div class="container-color">
+            <div id="screen" class="screen"></div>
+            <button id="btn-color">Changer la couleur</button>
+        </div>
+        <btn class="indice-2" id="arnaud">
+            <img style="width: 100%" src="/assets/img/arnaud-pensif.png" alt="">
+        </btn>
+    </div>
 </body>
-<script src="/assets/js/2.js"></script>
-<script>
-    function NextStep() {
-        var competence = '"Garantir l’intégration des différents éléments et modules"';
-        if (window.confirm("Bravo ! \nTu as validé la compétence suivante :\n"+ competence)) {
-            window.location.href = "./3.php";
-        } else {
-            die();
-        }
-    }
-</script>
+<script src="/assets/js/5.js"></script>
 </html>
