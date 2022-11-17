@@ -15,3 +15,15 @@ function updateValue() {
     }
 }
 
+const arnaud = document.getElementById("arnaud");
+const popup = document.getElementById("popup-indice");
+
+arnaud.addEventListener("click", ShowPopup);
+function ShowPopup() {
+    if (popup.style.opacity == "0") {
+        popup.style.opacity = "1";
+    } else {
+        popup.style.opacity = "0";
+    }
+}
+
