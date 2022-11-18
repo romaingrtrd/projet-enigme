@@ -3,5 +3,56 @@
 @tailwind utilities;
 @import "./1.css";
 
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  padding: 1em;
+}
+
+.accueil {
+  background-image: url("/assets/img/background.png");
+  min-height: 88vh;
+  background-size: cover;
+
+  
+}
+body{
+  background: linear-gradient(179.48deg, rgba(223, 200, 134, 0.8) 20.3%, #6D6243 101.28%);
+  font-family: Poppins;
+  z-index: 2;
+}
+.title {
+  color: #E5DCC3;
+  font-size: 60px;
+  text-align: center;
+  padding-top: 12%;
+  padding-bottom: 2%;
+}
+
+.img {
+  position: absolute;
+  left: 41%;
+}
+.img:hover .hover_img {
+
+  display: inline;
+  
+  }
+  .hover_img {
+
+    position: absolute;
+    
+    top: 0;
+    
+    left: 0;
+    
+    display: none;
+    
+    }
+
+
+
+
 
 
