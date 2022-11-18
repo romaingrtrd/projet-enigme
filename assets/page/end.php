@@ -15,6 +15,7 @@
 </head>
 
 <body>
+    <canvas class="confetti" id="canvas"></canvas>
     <br><br><br>
             <h2>Merci d'avoir participer à notre projet eni<g>G</g>m<g>4</g> !</h2>
         
@@ -26,5 +27,6 @@
         <img class="surpris" src="/assets/img/Arnaud-surpris.png" alt="">
     </div>
 </body>
+    <script src="/assets/js/end.js"></script>
 
 </html>

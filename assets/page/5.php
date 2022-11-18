@@ -15,15 +15,15 @@
         </div>
         <header>
             <div class="logo">
-                <img onclick="location.href='./index.php'" style="width: 100%;" src="/assets/img/logo.png" alt="">
+                <img onclick="location.href='../../index.php'" style="width: 100%;" src="/assets/img/logo.png" alt="">
             </div>
             <div class="number-current color-indice">
-                <p>5</p>
+                <p>5 / 6</p>
             </div>
         </header>
 
         <div class="main">
-            <h1>“Ah j’ai oublié de te prévenir mais tu débutes ton premier jour pendant une semaine de projet. Un étudiant a besoin de ton aide car il n’arrive pas à changer la <span class="color-indice">couleur de fond</span> de son site internet, il souhaite la mettre en <span class="color-indice">rouge (#FF0000)</span>."</h1>
+            <h1>“Ah j’ai oublié de te prévenir mais tu débutes ton premier jour pendant une semaine de projet. Un étudiant a besoin de ton aide car il n’arrive pas à changer la <span class="text-shadow">couleur de fond</span> de son site internet, il souhaite la mettre en <span class="text-shadow">rouge (#FF0000)</span>."</h1>
             <div class="container-color">
                 <div id="screen" class="screen"></div>
                 <button id="btn-color">Changer la couleur</button>

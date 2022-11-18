@@ -3,10 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="eb18f8a5-54c2-4121-beb4-a36270683f3f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/1.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/2.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/end.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/page/end.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/output.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/output.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/4.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/5.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/6.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/7.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/end.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/end.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/4.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/5.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/6.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/page/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/page/1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/page/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/page/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/page/4.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/page/4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/page/5.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/page/5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/page/6.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/page/6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/page/7.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/page/7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/page/end.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/page/end.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,18 +42,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/romain/Projects/conflict/projet-enigme",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/romain/Projects/conflict/projet-enigme&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/page" />
       <recent name="$PROJECT_DIR$/assets/css" />
@@ -53,7 +69,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668693873655</updated>
-      <workItem from="1668693875008" duration="9738000" />
+      <workItem from="1668693875008" duration="9939000" />
+      <workItem from="1668756977660" duration="6690000" />
     </task>
     <servers />
   </component>

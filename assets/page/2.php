@@ -15,9 +15,9 @@
     <div class="main">
         <h1>Maintenant il est temps de se connecter à ton ordinateur dédié.
             <br>
-            Pour cela, rentre ton nom en utilisateur et le code en guise de <span class="color-indice">mot de passe</span>.
+            Pour cela, rentre ton nom en utilisateur et le code en guise de <span class="text-shadow">mot de passe</span>.
             <br>
-            Pour finaliser la connexion, cliques sur le bouton <span class="color-indice">SE CONNECTER</span>
+            Pour finaliser la connexion, cliques sur le bouton <span class="text-shadow">SE CONNECTER</span>
         </h1>
         <div class="container-img">
             <img style="width: 100% height:auto " src="/assets/img/window-login.png">
@@ -37,7 +37,7 @@
         function NextStep() {
             var competence = '"Garantir l’intégration des différents éléments et modules"';
             if (window.confirm("Bravo ! \nTu as validé la compétence suivante :\n"+ competence)) {
-            window.location.href = "./3.php";
+            window.location.href = "./4.php";
             } else {
                 die();
             }

@@ -23,7 +23,7 @@
             <img onclick="location.href='../../index.php'" style="width: 100%;" src="/assets/img/logo.png" alt="">
         </div>
         <div class="number-current color-indice">
-            <p>6</p>
+            <p>6 / 6</p>
         </div>
     </header>
     <div class="container">
@@ -42,9 +42,9 @@
                 <div class="text-normal">Expériences acquises aujourd'hui</div>
                 <ul class="draggable-list" id="draggable-list"></ul>
                 <div class="center">
-                <button class="check-btn" id="check">
-                    Valider
-                </button>
+                    <button class="check-btn" id="check">
+                        Valider
+                    </button>
                 </div>
             </div>
         </div>

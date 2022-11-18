@@ -12,7 +12,7 @@ ChangeColor();
 function NextStep() {
     var competence = '"Garantir l’intégration des différents éléments et modules"';
     if (window.confirm("Bravo ! \nTu as validé la compétence suivante :\n"+ competence)) {
-        window.location.href = "./7.php";
+        window.location.href = "./6.php";
     } else {
         die();
     }

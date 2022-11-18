@@ -9,20 +9,20 @@
 </head>
 <body>
     <div id="popup-indice">
-        Construire l’organisation projet
+        Que fait systématiquement un COP avant de travailler?
     </div>
     <header>
         <div class="logo">
             <img onclick="location.href='../../index.php'" style="width: 100%;" src="/assets/img/logo.png" alt="">
         </div>
         <div class="number-current color-indice">
-            <p>4</p>
+            <p>4 / 6</p>
         </div>
     </header>
     <section>
         <div class="text">
             <p>"Tu viens de finir de sortir d'un long rendez-vous avec le client d'un projet. Le client t'a listé des problèmes sur le site à régler avant ce soir.<br>
-            Avec le temps qu'il nous reste, nous ne pourrons effectuer seulement 6 tâches,<span class="gras"> soit efficace dès le début.</span> Attention, j'ai entendu qu'il y avait<span class="gras"> un piège."</span></p></span>
+            Avec le temps qu'il nous reste, nous ne pourrons effectuer seulement 6 tâches,<span class="text-shadow"> soit efficace dès le début.</span> Attention, j'ai entendu qu'il y avait<span class="text-shadow"> un piège."</span></p></span>
         </div>
 
         <div class="enigme4">
@@ -77,12 +77,12 @@
                 </tbody>
             </table>
             <div class="textedroitetableau">
-                <div class="texte-tableau">Sélectionne les 6 tâches !</div>
+                <div class="texte-tableau">Sélectionnes les 6 tâches !</div>
                 <button class="boutonvalider" id="bouton" onclick="checkresultat()">Valider</button>
             </div>
         </div>
         <btn class="indice-2" id="arnaud">
-            <img style="width: 100%" src="/assets/img/arnaud-pensif.png" alt="">
+            <img id='img-arnaud' style="width: 100%" src="/assets/img/arnaud-pensif.png" alt="">
         </btn>
     </section>
 

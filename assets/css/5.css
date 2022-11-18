@@ -27,6 +27,9 @@ h1 {
 .color-indice {
     color: #DFC886;
 }
+.text-shadow {
+    text-shadow: #000000 0px 0px 10px;
+}
 #popup-indice {
     position: absolute;
     float: left;

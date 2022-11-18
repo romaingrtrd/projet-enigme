@@ -26,7 +26,10 @@ h1 {
     font-weight: 300;
 }
 .color-indice {
-    color: #E5DCC3;
+    color: #797979;
+}
+.text-shadow {
+    text-shadow: #000000 0px 0px 10px;
 }
 #popup-indice {
     position: absolute;

@@ -1,11 +1,3 @@
-// function muFunction() {
-//     var button = document.getElementById('bouton');
-//     var checkbox = document.getElementById('1','3','5','6','7','10');
-//     if (checkbox.checked == true && button.clicked == true ){
-//     }
-//     alert('Bonne réponse fdp');
-// }
-
 var arr= [];
 var resultat= ['1', '10', '3', '5', '6', '7'];
 function myFunction(inputCB) {
@@ -24,9 +16,18 @@ function checkresultat() {
     const equals = (arr, resultat) => JSON.stringify(arr) === JSON.stringify(resultat);
     if (equals(arr, resultat)) {
         NextStep();
+
     } else {
-        alert('C\'est faux ! Arnaud n\'est pas content');
-    }
+        ChangeArnaud();
+        setTimeout( function() {
+            alert('C\'est faux ! Arnaud n\'est pas content');
+            }, 200);
+        }
+}
+
+
+function ChangeArnaud() {
+    document.getElementById("img-arnaud").src = "/assets/img/arnaud-pascontent.png";
 }
 
 const arnaud = document.getElementById("arnaud");

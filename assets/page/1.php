@@ -16,10 +16,10 @@
     </div>
     <header>
         <div class="logo">
-            <img onclick="location.href='./index.php'" style="width: 100%;" src="/assets/img/logo.png" alt="">
+            <img onclick="location.href='../../index.php'" style="width: 100%;" src="/assets/img/logo.png" alt="">
         </div>
         <div class="number-current color-indice">
-            <p>1</p>
+            <p>1 / 6</p>
         </div>
     </header>
     <div class="main">
@@ -29,11 +29,11 @@
                 <p class="mb-[20px]">
                     Pour ta première journée en tant que COP à G4, nous allons t’accompagner dans tes tâches quotidiennes.
                     Tu entendras sûrement les étudiants dire que ce travail est facile voire inutile mais tu vas te rendre compte que ce n’est pas tout le temps simple !
-                    Pour ouvrir la grille et accéder à l’école : rentres la <span class="text-quaternary">$cle</span>
+                    Pour ouvrir la grille et accéder à l’école : rentres la <span class="text-shadow text-quaternary">$cle</span>
                 </p>
             </div>
 
-            <div class="flex justify-center w-100">
+            <div class="flex justify-center w-full">
                 <input id="text" type="text" class="rounded-full h-8 w-100 py-3 px-3 text-s ">
                 <button onclick="NextStep()" id="bouton" style="display:none" class="rounded-full font-poppins text-white text-[15px] hover:text-black bg-quaternary w-8 h-8 ml-1 absolute mr-[-163px]">OK</button>
             </div>

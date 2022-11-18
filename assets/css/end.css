@@ -23,11 +23,17 @@ body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
 }
-
+.confetti{
+  position: absolute;
+  max-width: 100%;
+  height: 100vh;
+  user-select: none;
+}
 h2{
-  font-size: 20px;
+  font-size: 40px;
   text-align: center;
   color: white;
+  text-shadow: #000000 0px 0px 10px;
 }
 
 g{
@@ -41,6 +47,13 @@ g{
   align-items: center;
   width: 100%;
   padding: 5% 22% 5% 22%;
+}
+.container > img {
+  transition: all 0.5s ease-in-out;
+}
+.container > img:hover {
+  transform: scale(1.7);
+  transition: all 0.2s ease-in-out;
 }
 
 .section {

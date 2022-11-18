@@ -4,7 +4,7 @@ const check = document.getElementById('check');
 const taskDone = [
     'Rentrer dans les bâtiments de G4',
     'Phase de connexion',
-    'Planification de la semaine',
+    /*'Planification de la semaine',*/
     'Prioriser les tâches',
     'Intervention du COP sur un projet',
 ];

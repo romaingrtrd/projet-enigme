@@ -9,7 +9,6 @@
 * {
   box-sizing: border-box;
 }
-
 body {
   background: url(/assets/img/bg.png),linear-gradient(#DFC886,#6D6243);
   background-size: cover;
@@ -46,12 +45,6 @@ header > .number-current > p {
   font-size: 40px;
   margin-right: 10px;
 }
-/*header > .logo:hover {
-  cursor: pointer;
-  background-image: url("/assets/img/logo-hover.png");
-  background-size: contain;
-  }
-  */
 #popup-indice {
   position: absolute;
   float: left;
@@ -67,13 +60,14 @@ header > .number-current > p {
   transition: all 0.2s ease-in-out;
 }
 h2{
-  font-size: 13px;
+  font-size: 15px;
   text-align: center;
   color: white;
 }
 
 g{
   color: #E5DCC3;
+  text-shadow: #000000 0px 0px 10px;
 }
 
 .container {

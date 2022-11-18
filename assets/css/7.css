@@ -14,3 +14,10 @@ body {
     background: transparent;
     border: none;
 }
+.text-shadow {
+    text-shadow: #000000 0px 0px 10px;
+}
+.scenario {
+    background: rgb(223,200,134);
+    background: linear-gradient(180deg, rgba(223,200,134,0.8) 0%, rgba(109,98,67,1) 100%);
+}
