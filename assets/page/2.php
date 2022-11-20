@@ -17,7 +17,7 @@
             <br>
             Pour cela, rentre ton nom en utilisateur et le code en guise de <span class="text-shadow">mot de passe</span>.
             <br>
-            Pour finaliser la connexion, cliques sur le bouton <span class="text-shadow">SE CONNECTER</span>
+            Pour finaliser la connexion, cliques sur le bouton <span class="text-shadow">se connecter</span>
         </h1>
         <div class="container-img">
             <img style="width: 100% height:auto " src="/assets/img/window-login.png">

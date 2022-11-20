@@ -23,9 +23,7 @@
         </div>
         <a href="assets/page/1.php">
         <div class="img"><button>
-            <img src="/assets/img/jouer.png" alt="">
-            <img src="/assets/img/jouer-hover.png" class="hover_img">
-        </button></div>
+            <img src="/assets/img/jouer.png" alt=""></button></div>
         </a>
 </section>
 </body>

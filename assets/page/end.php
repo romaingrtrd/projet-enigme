@@ -21,10 +21,10 @@
         
     <br>
     <div class="container">
-        <img class="pensif" src="/assets/img/Arnaud-pensif.png" alt="">
-        <img class="content" src="/assets/img/Arnaud-content.png" alt="">
-        <img class="pascontent" src="/assets/img/Arnaud-pascontent.png" alt="">
-        <img class="surpris" src="/assets/img/Arnaud-surpris.png" alt="">
+        <img class="pensif" src="/assets/img/arnaud-pensif.png" alt="">
+        <img class="content" src="/assets/img/arnaud-content.png" alt="">
+        <img class="pascontent" src="/assets/img/arnaud-pascontent.png" alt="">
+        <img class="surpris" src="/assets/img/arnaud-surpris.png" alt="">
     </div>
 </body>
     <script src="/assets/js/end.js"></script>

@@ -3,25 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="eb18f8a5-54c2-4121-beb4-a36270683f3f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/1.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/2.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/4.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/5.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/5.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/6.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/6.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/7.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/7.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/end.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/end.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/4.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/5.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/6.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/page/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/page/1.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/page/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/page/2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/page/4.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/page/4.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/page/5.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/page/5.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/page/6.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/page/6.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/page/7.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/page/7.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/page/end.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/page/end.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668693873655</updated>
       <workItem from="1668693875008" duration="9939000" />
-      <workItem from="1668756977660" duration="6690000" />
+      <workItem from="1668756977660" duration="9674000" />
     </task>
     <servers />
   </component>
